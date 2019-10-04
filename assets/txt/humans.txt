@@ -1,12 +1,12 @@
 /* TEAM */
-Name: Damien Couroussé, Christian Fabre
-Site: open-src-soc.org
+Name: Damien Couroussé, Karine Heydemann
+Site: gtmfs2020.github.io
 Location: Paris, France
 
 /* THANKS */
 Name: Jasper Van der Jeugt (http://jaspervdj.be) for hakyll
 
 /* SITE */
-Last update: 2019-07-02
+Last update: 2019-10-04
 Standards: HTML5, CSS3
 Software: Haskell, GHC, hakyll, vim
