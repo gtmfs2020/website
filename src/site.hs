@@ -17,13 +17,12 @@ main = do
   hakyll $ do
 
     -- static content
-    match ( "CNAME" .||. "css/layouts/*" .||. "img/*"
-            .||. "js/*" .||. "media/*") $ do
+    match ( "CNAME" .||. "img/*" .||. "media/*" .||. "assets/js/*") $ do
       route idRoute
       compile copyFileCompiler
 
-    match ( "css/*" .||. "css/layouts/*") $ do
-      route   idRoute
+    match "assets/css/*" $ do
+      route $ gsubRoute "assets/css/" (const "css/")
       compile compressCssCompiler
 
     -- Static pages
