@@ -1,0 +1,71 @@
+* build tools [developer, integrator]
+
+#+BEGIN_EXAMPLE
+$ TMPDIR=DIR_WITH_LOTS_OF_SPACE_AVAILABLE stack setup
+$ make stack_build
+#+END_EXAMPLE
+
+You can skip =make stack_build=.  =make all= builds everything,
+including the build tools.
+
+* build the website [developer, integrator]
+
+** requirements
+
++ =stack=.  Follow install instructions at https://docs.haskellstack.org/en/stable/README/#how-to-install.
+
+** build
+
+#+BEGIN_EXAMPLE
+$ make
+#+END_EXAMPLE
+
+The website files are build in the directory =_site=.
+
+It's also possible to have the website automatically built each time
+a source file is modified.  Open your browser to =http://localhost:8000=,
+and then run:
+
+#+BEGIN_EXAMPLE
+$ make watch
+#+END_EXAMPLE
+
+To rebuild everything in =_site=:
+#+begin_example
+$ make rebuild
+#+end_example
+
+* build the program booklet
+
+** requirements
+
+- emacs
+- org-mode
+- texlive
+
+** build
+
+#+begin_example
+$ make booklet
+#+end_example
+
+* deploy [integrator]
+
+Rebuild everything, push the website contents in directory =site=, and
+=git push= to =site='s remote.  The directory =site= is a git
+submodule.  If the website is hosted on =github.io= (or similar
+services) =git push=ing its contents will update the contents of the
+website.
+
+#+begin_example
+$ make deploy
+#+end_example
+
+* to merge, build the site, push and sync everything
+
+While in the branch =master=, to merge all in branch =deploy=, commit
+=deploy=, merge back in =master= and push both branches:
+
+#+begin_example
+$ make commit-merge-and-push-both-branches
+#+end_example

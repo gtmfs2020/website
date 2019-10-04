@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://open-src-soc.org/sitemap.xml

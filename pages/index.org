@@ -1,0 +1,46 @@
+#+STARTUP: showall
+#+OPTIONS: toc:nil
+#+title: GT MFS 2020
+
+** Journée 2020 du Groupe de Travail /Méthodes Formelles pour la Sécurité/  des GdR /SOC2/ et /Sécurité Informatique/
+
+ La journée a pour objectif de permettre aux personnes de la communauté des méthodes formelles intéressées par les applications liées à la sécurité de se regrouper et d'échanger autour de ces thèmes. Elle comportera des exposés de chercheurs, d'industriels et de doctorants.
+
+ La participation à la journée est gratuite mais il est obligatoire de
+ s'y inscrire avant le 15 janvier.   Le nombre d'inscriptions est
+ limité à 80 en raison de la capacité d'accueil de la salle.
+
+*** Venir aux journées
+
+     Le 30 janvier 2020
+
+     Campus de Jussieu − Paris
+
+******** TODO Préciser la salle @ Jussieu
+    :PROPERTIES:
+          :TRIGGER:  chain-find-next(TODO,todo-only)
+          :END:
+
+*** Inscriptions
+
+*Date limite des inscriptions : le 15 janvier*.
+
+Le nombre d'inscriptions est limité à 80 en raison de la capacité
+ d'accueil de la salle.
+
+******** TODO lien vers le formulaire d'inscriptions
+    :PROPERTIES:
+          :TRIGGER:  chain-find-next(TODO,todo-only)
+          :END:
+
+*** Contact
+
+ Vous pouvez contacter le comité d'organisation à cette adresse mail : [[mailto:orga.gtmfs2020@saxifrage.saclay.cea.fr][orga.gtmfs2020@saxifrage.saclay.cea.fr]]
+
+     Comité d'organisation
+         + Karine Heydemann − LIP6
+         + Damien Couroussé − CEA
+
+     Responsables du GT MFS
+         + Sébastien Bardin − CEA
+         + Stéphanie Delaune − IRISA

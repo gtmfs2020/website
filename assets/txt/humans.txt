@@ -1,0 +1,12 @@
+/* TEAM */
+Name: Damien Couroussé, Christian Fabre
+Site: open-src-soc.org
+Location: Paris, France
+
+/* THANKS */
+Name: Jasper Van der Jeugt (http://jaspervdj.be) for hakyll
+
+/* SITE */
+Last update: 2019-07-02
+Standards: HTML5, CSS3
+Software: Haskell, GHC, hakyll, vim
