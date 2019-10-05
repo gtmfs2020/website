@@ -1,4 +1,4 @@
-all: build booklet
+all: build
 
 GIT_BRANCH:=$(shell git branch | sed -n '/\* /s///p')
 build: stack_build
