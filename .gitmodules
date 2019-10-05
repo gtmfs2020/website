@@ -1,0 +1,3 @@
+[submodule "site"]
+	path = site
+	url = git@github.com:gtmfs2020/gtmfs2020.github.io.git
