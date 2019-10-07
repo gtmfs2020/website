@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://open-src-soc.org/sitemap.xml
+Sitemap: https://gtmfs2020.github.io/sitemap.xml

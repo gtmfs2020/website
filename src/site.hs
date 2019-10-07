@@ -59,11 +59,11 @@ main = do
 
 feedConfiguration :: FeedConfiguration
 feedConfiguration = FeedConfiguration
-    { feedTitle = "Deuxièmes rencontres RISC-V"
-      , feedDescription = "Deuxièmes rencontres RISC-V"
-      , feedAuthorName = "Christian Fabre, Damien Couroussé"
-      , feedAuthorEmail = "renc-riscv-orga@saxifrage.saclay.cea.fr "
-      , feedRoot = "http://open-src-soc.org"
+    { feedTitle = "journée GT MFS 2020"
+    , feedDescription = "Journée 2020 du Groupe de Travail Méthodes Formelles pour la Sécurité  des GdR SOC2 et Sécurité Informatique"
+    , feedAuthorName = "Karine Heydemann, Damien Couroussé"
+    , feedAuthorEmail = "orga.gtmfs2020@saxifrage.saclay.cea.fr "
+    , feedRoot = "https://gtmfs2020.github.io"
     }
 
 -- Auxiliary compilers
@@ -130,7 +130,7 @@ gitTag = field "gitinfo" $ \item -> do
   unsafeCompiler $ do
     date    <- gitLog "%aD"
     return $ concat
-             [ "<a href=https://github.com/open-src-soc/open-src-soc.github.io/commits/master>"
+             [ "<a href=https://github.com/gtmfs2020/website/commits/master>"
              , "Page last modified " ++ date
              , "</a>"
              ]
