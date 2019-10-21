@@ -11,6 +11,9 @@
  limité à 80 en raison de la capacité d'accueil de la salle.
 
 *** Venir aux journées
+    :PROPERTIES:
+    :CUSTOM_ID: venir
+    :END:
 
      Le 30 janvier 2020
 
@@ -22,6 +25,9 @@
           :END:
 
 *** Inscriptions
+    :PROPERTIES:
+    :CUSTOM_ID: inscriptions
+    :END:
 
 *Date limite des inscriptions : le 15 janvier*.
 
