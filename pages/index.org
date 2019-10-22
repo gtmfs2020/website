@@ -22,8 +22,6 @@ La salle 105 se situe au premier étage entre les tours 25 et 26.
 
 [[file:media/PlanJussieu.png][Plan d'accès]]
 
-
-
 *** Inscriptions
     :PROPERTIES:
     :CUSTOM_ID: inscriptions
@@ -32,14 +30,11 @@ La salle 105 se situe au premier étage entre les tours 25 et 26.
 *Date limite des inscriptions : le 15 janvier*.
 
 Le nombre d'inscriptions est limité à 80 en raison de la capacité
- d'accueil de la salle.
+  d'accueil de la salle.
 
-******** TODO lien vers le formulaire d'inscriptions
-    :PROPERTIES:
-          :TRIGGER:  chain-find-next(TODO,todo-only)
-          :END:
+Bientôt ici, le lien vers la page d'inscriptions
 
-
+# [[https://framaforms.org/gtmfs2020-inscription-1571751401][Lien vers la page d'inscriptions]].
 
 *** Comité d'organisation
 
