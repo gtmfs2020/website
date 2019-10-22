@@ -15,14 +15,14 @@
     :CUSTOM_ID: venir
     :END:
 
-     Le 30 janvier 2020
+La journée aura lieu le *30 janvier 2020 de 10h à 17h*.
 
-     Campus de Jussieu − Paris
+Lieu : Laboratoire d’Informatique de Paris 6 (LIP6) salle 105 25-26 – Campus de Jussieu.
+La salle 105 se situe au premier étage entre les tours 25 et 26.
 
-******** TODO Préciser la salle @ Jussieu
-    :PROPERTIES:
-          :TRIGGER:  chain-find-next(TODO,todo-only)
-          :END:
+[[file:media/PlanJussieu.png][Plan d'accès]]
+
+
 
 *** Inscriptions
     :PROPERTIES:
