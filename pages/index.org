@@ -2,7 +2,7 @@
 #+OPTIONS: toc:nil
 #+title: GT MFS 2020
 
-** Journée 2020 du Groupe de Travail /Méthodes Formelles pour la Sécurité/  des GdR /SOC2/ et /Sécurité Informatique/
+** Journée 2020 du Groupe de Travail /Méthodes Formelles pour la Sécurité/ du GdR /Sécurité Informatique/
 
  La journée a pour objectif de permettre aux personnes de la communauté des méthodes formelles intéressées par les applications liées à la sécurité de se regrouper et d'échanger autour de ces thèmes. Elle comportera des exposés de chercheurs, d'industriels et de doctorants.
 
