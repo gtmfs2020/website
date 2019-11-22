@@ -1,6 +1,6 @@
 #+STARTUP: showall
 #+OPTIONS: toc:nil
-#+title: GT MFS 2020
+#+title: Journée 2020 du GT MFS
 
 ** Journée 2020 du Groupe de Travail /Méthodes Formelles pour la Sécurité/ du GdR /Sécurité Informatique/
 
