@@ -42,7 +42,7 @@ check-upstream:
 	git fetch --recurse-submodules
 	# MAYBE This is fragile!  Any better options for making sure
 	# that we are up to date or ahead of upstream?
-	LANG=C git status --untracked-files=no | grep -q -e 'ahead' -e 'up to date' || echo "\n\nERROR.\nPlease integrate upstream changes first."
+	LANG=C git status --untracked-files=no | grep -q -e 'ahead' -e 'up to date' || (echo "\n\nERROR.\nPlease integrate upstream changes first."; return 1)
 .PHONY: check-upstream
 
 commit-merge-and-push-both-branches:
