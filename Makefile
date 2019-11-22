@@ -25,7 +25,7 @@ deploy: check-deploy-branch check-upstream rebuild
 	rsync -avr --delete --exclude='.git'  _site/ site/
 	cd site \
 		&& git add . \
-		&& git commit -m 'Automatic commit in submodule site/ by dev. repo. Makefile.' \
+		&& git commit --allow-empty -m 'Automatic commit in submodule site/ by dev. repo. Makefile.' \
 		&& git push origin master
 	git add site
 	git commit -m 'Automatic commit of submodule site/ update.'
