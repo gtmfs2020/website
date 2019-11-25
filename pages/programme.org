@@ -5,9 +5,9 @@
 * Programme
 
 | 09h30 | ---                 | Accueil autour d'un café                                                             |
-| 10h00 | Cristian Cadar     | Keynote.  [[#cadar][Titre à venir]].                                                             |
+| 10h00 | Cristian Cadar      | Keynote.  [[#cadar][Titre à venir]].                                                             |
 | 11h00 | ---                 | /Pause/                                                                              |
-| 11h20 | Barbara Fila Kordy  | [[#fila cordy][Attack trees: meaning, analysis, and correctness]].                                    |
+| 11h20 | Barbara Fila        | [[#fila cordy][Attack trees: meaning, analysis, and correctness]].                                    |
 | 12h05 | Itsaka Rakotonirina | [[#rakotonirina][Efficient verification of observational equivalences in finite-process calculi]].      |
 | 12h35 | ---                 | /Déjeuner/                                                                           |
 | 14H00 | Cătălin Hrițcu      | [[#hritcu][When Good Components Go Bad: Formally Secure Compilation Despite Dynamic Compromise]]. |
@@ -34,7 +34,7 @@ Résumé à venir
     :CUSTOM_ID: fila cordy
     :END:
 
-/[[https://people.irisa.fr/Barbara.Kordy][Barbara Fila (Kordy)]] -- IRISA/
+/[[https://people.irisa.fr/Barbara.Kordy][Barbara Fila]] -- IRISA, INSA Rennes/
 
 /Abstract/.
 Since their introduction in 1999, attack trees have become one of the most popular models for representation of security issues. They have been successfully adopted by industry where they are employed to evaluate the security of systems and organizations. More recently, attack trees attracted the attention of formal methods scientists interested in their meaning, their automated creation, and their potential for quantitative analysis of security.
