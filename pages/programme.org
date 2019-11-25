@@ -7,7 +7,7 @@
 | 09h30 | ---                 | Accueil autour d'un café                                                             |
 | 10h00 | Christian Cadar     | Keynote.  [[#cadar][Titre à venir]].                                                             |
 | 11h00 | ---                 | /Pause/                                                                              |
-| 11h20 | Barbara Fila Kordy  | [[#fila cordy][Titre à venir]].                                                                       |
+| 11h20 | Barbara Fila Kordy  | [[#fila cordy][Attack trees: meaning, analysis, and correctness]].                                    |
 | 12h05 | Itsaka Rakotonirina | [[#rakotonirina][Efficient verification of observational equivalences in finite-process calculi]].      |
 | 12h35 | ---                 | /Déjeuner/                                                                           |
 | 14H00 | Cătălin Hrițcu      | [[#hritcu][When Good Components Go Bad: Formally Secure Compilation Despite Dynamic Compromise]]. |
@@ -29,12 +29,22 @@
 
 Résumé à venir
 
-*** Titre à venir
+*** Attack trees: meaning, analysis, and correctness
     :PROPERTIES:
-    :CUSTOM_ID: #fila cordy
+    :CUSTOM_ID: fila cordy
     :END:
 
 /[[https://people.irisa.fr/Barbara.Kordy][Barbara Fila (Kordy)]] -- IRISA/
+
+
+/Abstract/.
+Since their introduction in 1999, attack trees have become one of the most popular models for representation of security issues. They have been successfully adopted by industry where they are employed to evaluate the security of systems and organizations. More recently, attack trees attracted the attention of formal methods scientists interested in their meaning, their automated creation, and their potential for quantitative analysis of security.
+
+This talk will focus on three practical aspects related to attack tree modeling and analysis. We will be first interested in attack trees with repeated nodes representing attacker's actions that may contribute to several distinct attack vectors. Next, we will investigate the problem of multi-parameter security analysis with attack trees. Finally, we will develop a semantics allowing us to verify the quality of an attack tree with respect to the system to be analyzed.
+
+This presentation will be based on my joint research work with Wojciech Widel, Sophie Pinchinat, and Maxime Audinot.
+
+
 
 *** Efficient verification of observational equivalences in finite-process calculi
     :PROPERTIES:
