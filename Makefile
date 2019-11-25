@@ -24,12 +24,12 @@ deploy: check-deploy-branch check-upstream rebuild
 	cd site && git stash && git fetch && git checkout master && git reset --hard origin/master
 	rsync -avr --delete --exclude='.git'  _site/ site/
 	cd site \
-		&& git add . \
-		&& git commit --allow-empty -m 'Automatic commit in submodule site/ by dev. repo. Makefile.' \
-		&& git push origin master
+	&& git add . \
+	&& git commit --allow-empty -m 'Automatic commit in submodule site/ by dev. repo. Makefile.' \
+	&& git push origin master
 	git add site
 	git commit -m 'Automatic commit of submodule site/ update.'
-	git push --recurse-submodules=check origin master
+	git push --recurse-submodules=check origin deploy
 
 # Only the branch monitored by 'check-branch.sh' can be used for site deploys.
 check-deploy-branch:
