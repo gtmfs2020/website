@@ -11,7 +11,7 @@
 | 12h05 | Itsaka Rakotonirina | [[#rakotonirina][Efficient verification of observational equivalences in finite-process calculi]].      |
 | 12h35 | ---                 | /Déjeuner/                                                                           |
 | 14H00 | Cătălin Hrițcu      | [[#hritcu][When Good Components Go Bad: Formally Secure Compilation Despite Dynamic Compromise]]. |
-| 14h45 | Thomas Letan        | [[#letan][Titre à venir]].                                                                       |
+| 14h45 | Thomas Letan        | [[#letan][Specifying and Verifying Hardware-based Security Enforcement mechanisms]].             |
 | 15h15 | ---                 | /Pause/                                                                              |
 | 15h35 | Patricia Mouy       | [[#mouy][Use of formal methods in the Common Criteria Context]].                                |
 | 16h20 | Johan Laurent       | [[#laurent][Titre à venir]].                                                                       |
@@ -36,15 +36,12 @@ Résumé à venir
 
 /[[https://people.irisa.fr/Barbara.Kordy][Barbara Fila (Kordy)]] -- IRISA/
 
-
 /Abstract/.
 Since their introduction in 1999, attack trees have become one of the most popular models for representation of security issues. They have been successfully adopted by industry where they are employed to evaluate the security of systems and organizations. More recently, attack trees attracted the attention of formal methods scientists interested in their meaning, their automated creation, and their potential for quantitative analysis of security.
 
 This talk will focus on three practical aspects related to attack tree modeling and analysis. We will be first interested in attack trees with repeated nodes representing attacker's actions that may contribute to several distinct attack vectors. Next, we will investigate the problem of multi-parameter security analysis with attack trees. Finally, we will develop a semantics allowing us to verify the quality of an attack tree with respect to the system to be analyzed.
 
 This presentation will be based on my joint research work with Wojciech Widel, Sophie Pinchinat, and Maxime Audinot.
-
-
 
 *** Efficient verification of observational equivalences in finite-process calculi
     :PROPERTIES:
@@ -70,12 +67,28 @@ To illustrate the model, we construct a secure compilation chain for a small uns
 
 /Catalin Hritcu is a researcher at Inria Paris where he works on security foundations. He is particularly interested in formal methods for security (secure compilation, compartmentalization, memory safety, security protocols, integrity, information flow), programming languages (program verification, proof assistants, type systems, semantics, formal metatheory, certified tools, property-based testing), and the design and verification of security-critical systems (reference monitors, secure compilation chains, secure hardware). He was awarded an ERC Starting Grant on formally secure compilation (https://secure-compilation.github.io), and is also actively involved in the design of the F* verification system (https://www.fstar-lang.org/), which is used for building a formally verified HTTPS stack (https://project-everest.github.io). Catalin received a PhD from Saarland University in Saarbrücken, a Habilitation from ENS Paris, and was previously also a Research Associate at University of Pennsylvania and a Visiting Researcher at Microsoft Research Redmond./
 
-*** Titre à venir
+*** Specifying and Verifying Hardware-based Security Enforcement mechanisms
     :PROPERTIES:
     :CUSTOM_ID: letan
     :END:
 
 /[[https://github.com/lthms][Thomas Letan]] -- ANSSI/
+
+/Abstract/.
+In this talk, we focus on Hardware-based Security Enforcement (HSE)
+mechanisms, when trusted software components configure hardware
+mechanisms to constrain the execution of untrusted —and arbitrary–
+software components. Over the past decade, several critical
+vulnerabilities have been disclosed which specifically target HSE
+mechanisms and which leveraged errors in the specifications of the
+underlying hardware mechanisms rather than inconsistencies in the
+implementation.
+
+We discuss our motivations to apply formal methods to this
+particular use case, and our related contributions. Initiated in late
+2014, our work is in line with ongoing efforts to increase the
+robustness of commodity hardware architectures (e.g., ARM formal
+specification by Reid et al.).
 
 *** Use of formal methods in the Common Criteria Context
     :PROPERTIES:
