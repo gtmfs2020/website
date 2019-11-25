@@ -27,14 +27,12 @@ La salle 105 se situe au premier étage entre les tours 25 et 26.
     :CUSTOM_ID: inscriptions
     :END:
 
-*Date limite des inscriptions : le 15 janvier*.
+*La date limite pour les inscriptions est le 15 janvier.*
 
 Le nombre d'inscriptions est limité à 80 en raison de la capacité
   d'accueil de la salle.
 
-Bientôt ici, le lien vers la page d'inscriptions
-
-# [[https://framaforms.org/gtmfs2020-inscription-1571751401][Lien vers la page d'inscriptions]].
+[[https://framaforms.org/gtmfs2020-inscription-1571751401][Lien vers la page d'inscriptions]].
 
 *** Comité d'organisation
 
