@@ -10,7 +10,7 @@
  s'y inscrire avant le 15 janvier.   Le nombre d'inscriptions est
  limité à 80 en raison de la capacité d'accueil de la salle.
 
-*** Venir aux journées
+** Venir aux journées
     :PROPERTIES:
     :CUSTOM_ID: venir
     :END:
@@ -22,7 +22,7 @@ La salle 105 se situe au premier étage entre les tours 25 et 26.
 
 [[file:media/PlanJussieu.png][Plan d'accès]]
 
-*** Inscriptions
+** Inscriptions
     :PROPERTIES:
     :CUSTOM_ID: inscriptions
     :END:
@@ -30,11 +30,11 @@ La salle 105 se situe au premier étage entre les tours 25 et 26.
 *La date limite pour les inscriptions est le 15 janvier.*
 
 Le nombre d'inscriptions est limité à 80 en raison de la capacité
-  d'accueil de la salle.
+d'accueil de la salle.
 
 [[https://framaforms.org/gtmfs2020-inscription-1571751401][Lien vers la page d'inscriptions]].
 
-*** Comité d'organisation
+** Comité d'organisation
 
     Organisateurs de la journée
          + Karine Heydemann − LIP6
@@ -44,6 +44,6 @@ Le nombre d'inscriptions est limité à 80 en raison de la capacité
          + Sébastien Bardin − CEA
          + Stéphanie Delaune − IRISA
 
-*** Contact
+** Contact
 
  Vous pouvez contacter le comité d'organisation à cette adresse mail : [[mailto:orga.gtmfs2020@saxifrage.saclay.cea.fr][orga.gtmfs2020@saxifrage.saclay.cea.fr]]
