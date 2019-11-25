@@ -5,7 +5,7 @@
 * Programme
 
 | 09h30 | ---                 | Accueil autour d'un café                                                             |
-| 10h00 | Christian Cadar     | Keynote.  [[#cadar][Titre à venir]].                                                             |
+| 10h00 | Cristian Cadar     | Keynote.  [[#cadar][Titre à venir]].                                                             |
 | 11h00 | ---                 | /Pause/                                                                              |
 | 11h20 | Barbara Fila Kordy  | [[#fila cordy][Attack trees: meaning, analysis, and correctness]].                                    |
 | 12h05 | Itsaka Rakotonirina | [[#rakotonirina][Efficient verification of observational equivalences in finite-process calculi]].      |
@@ -25,7 +25,7 @@
     :CUSTOM_ID: cadar
     :END:
 
-/[[http://www.doc.ic.ac.uk/~cristic/][Christian Cadar]] -- Imperial College London/
+/[[http://www.doc.ic.ac.uk/~cristic/][Cristian Cadar]] -- Imperial College London/
 
 Résumé à venir
 
