@@ -4,19 +4,19 @@
 
 * Programme
 
-| 09h30 | ---                 | Accueil autour d'un café                                                             |
-| 10h00 | Cristian Cadar      | Keynote.  [[#cadar][Titre à venir]].                                                             |
-| 11h00 | ---                 | /Pause/                                                                              |
-| 11h20 | Barbara Fila        | [[#fila cordy][Attack trees: meaning, analysis, and correctness]].                                    |
-| 12h05 | Itsaka Rakotonirina | [[#rakotonirina][Efficient verification of observational equivalences in finite-process calculi]].      |
-| 12h35 | ---                 | /Déjeuner/                                                                           |
-| 14H00 | Cătălin Hrițcu      | [[#hritcu][When Good Components Go Bad: Formally Secure Compilation Despite Dynamic Compromise]]. |
-| 14h45 | Thomas Letan        | [[#letan][Specifying and Verifying Hardware-based Security Enforcement mechanisms]].             |
-| 15h15 | ---                 | /Pause/                                                                              |
-| 15h35 | Patricia Mouy       | [[#mouy][Use of formal methods in the Common Criteria Context]].                                |
-| 16h20 | Johan Laurent       | [[#laurent][Titre à venir]].                                                                       |
-| 16h50 | les organisateurs   | Mot sur le GT                                                                        |
-| 17h00 | ---                 | /Fin de la journée/                                                                  |
+| 09h30 | ---                 | Accueil autour d'un café                                                                                        |
+| 10h00 | Cristian Cadar      | Keynote.  [[#cadar][Titre à venir]].                                                                                        |
+| 11h00 | ---                 | /Pause/                                                                                                         |
+| 11h20 | Barbara Fila        | [[#fila cordy][Attack trees: meaning, analysis, and correctness]].                                                               |
+| 12h05 | Itsaka Rakotonirina | [[#rakotonirina][Efficient verification of observational equivalences in finite-process calculi]].                                 |
+| 12h35 | ---                 | /Déjeuner/                                                                                                      |
+| 14H00 | Cătălin Hrițcu      | [[#hritcu][When Good Components Go Bad: Formally Secure Compilation Despite Dynamic Compromise]].                            |
+| 14h45 | Thomas Letan        | [[#letan][Specifying and Verifying Hardware-based Security Enforcement mechanisms]].                                        |
+| 15h15 | ---                 | /Pause/                                                                                                         |
+| 15h35 | Patricia Mouy       | [[#mouy][Use of formal methods in the Common Criteria Context]].                                                           |
+| 16h20 | Johan Laurent       | [[#laurent][A Cross-Layer Security Approach: Combining Accurate Modelling of Hardware Faults with Static Software Analysis]]. |
+| 16h50 | les organisateurs   | Mot sur le GT                                                                                                   |
+| 17h00 | ---                 | /Fin de la journée/                                                                                             |
 
 * Résumés des présentations
 
@@ -97,9 +97,13 @@ specification by Reid et al.).
 
 /Patricia Mouy -- ANSSI/
 
-*** Titre à venir
+*** A Cross-Layer Security Approach: Combining Accurate Modelling of Hardware Faults with Static Software Analysis
     :PROPERTIES:
     :CUSTOM_ID: laurent
     :END:
 
 /[[http://lcis.grenoble-inp.fr/themes/laurent-johan][Johan Laurent]] -- LCIS/
+
+/Abstract/.
+As technology evolves, digital systems with increasing complexity are becoming more vulnerable to hardware fault attacks. Analyzing the vulnerabilities of a program against these fault attacks hence requires powerful techniques such as static code analysis. The methods developed so far usually apply these techniques with typical software fault models. However, the effects of fault attacks on a program are very diverse, and are not entirely captured by these typical software fault models.
+In this presentation, we will present a method to accurately model at the software level what happens when a modern processor is attacked with hardware faults; and show what kind of analyses can be conducted to prove the validity of various security properties against these accurate software fault models.
