@@ -95,7 +95,14 @@ specification by Reid et al.).
     :CUSTOM_ID: mouy
     :END:
 
-/Patricia Mouy -- ANSSI/
+/Patricia Mouy, Thomas Letan -- ANSSI/
+
+/Abstract/.
+The Common Criteria (CC) is a international standard for IT security certification. Seven evaluation assurance levels (EAL 7) are defined and reflect assurance requirements that must be met to achieve Common Criteria certification. Formals methods are required for the highest levels of
+assurance of common criteria i.e. the most stringent  and expensive ones.
+This talk will begin with a  general overview of the common
+criteria context. Then, in the particular context of CC and the French scheme, the definition of a formal method will be presented with the associated expectations and precautions about its use for an evaluation.
+Finally, the process and conditions of accepting a new formal method in the CC context will be explained.
 
 *** A Cross-Layer Security Approach: Combining Accurate Modelling of Hardware Faults with Static Software Analysis
     :PROPERTIES:
