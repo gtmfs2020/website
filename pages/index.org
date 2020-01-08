@@ -22,6 +22,13 @@ La salle 105 se situe au premier étage entre les tours 25 et 26.
 
 [[file:media/PlanJussieu.png][Plan d'accès]]
 
+
+*** BYOB -- Bring Your Own Badge !
+
+Pour simplifier l'organisation la journée et réduire les coûts
+d'organisation, *nous avons décidé de fonctionner en mode écologique
+BYOB : Bring Your Own Badge !*
+
 ** Inscriptions
     :PROPERTIES:
     :CUSTOM_ID: inscriptions
