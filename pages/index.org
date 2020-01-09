@@ -29,17 +29,19 @@ Pour simplifier l'organisation la journée et réduire les coûts
 d'organisation, *nous avons décidé de fonctionner en mode écologique
 BYOB : Bring Your Own Badge !*
 
-** Inscriptions
+** Les inscriptions sont closes
     :PROPERTIES:
     :CUSTOM_ID: inscriptions
     :END:
 
-*La date limite pour les inscriptions est le 15 janvier.*
+# *La date limite pour les inscriptions est le 15 janvier.*
+Nous avons atteint le quota maximum d'inscriptions.
+*Les inscriptions sont closes*.
 
 Le nombre d'inscriptions est limité à 80 en raison de la capacité
 d'accueil de la salle.
 
-[[https://framaforms.org/gtmfs2020-inscription-1571751401][Lien vers la page d'inscriptions]].
+# [[https://framaforms.org/gtmfs2020-inscription-1571751401][Lien vers la page d'inscriptions]].
 
 ** Comité d'organisation
 
