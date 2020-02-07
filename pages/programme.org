@@ -4,29 +4,23 @@
 
 * Programme
 
-| 09h30 | ---                 | Accueil autour d'un café                                                                                        |
-| 10h00 | Cristian Cadar      | Keynote.  [[#cadar][Finding Bugs and Security Vulnerabilities with Dynamic Symbolic Execution]].                            |
-| 11h00 | ---                 | /Pause/                                                                                                         |
-| 11h20 | Barbara Fila        | [[#fila cordy][Attack trees: meaning, analysis, and correctness]].                                                               |
-| 12h05 | Itsaka Rakotonirina | [[#rakotonirina][Efficient verification of observational equivalences in finite-process calculi]].                                 |
-| 12h35 | ---                 | /Déjeuner/                                                                                                      |
-| 14H00 | Cătălin Hrițcu      | [[#hritcu][When Good Components Go Bad: Formally Secure Compilation Despite Dynamic Compromise]].                            |
-| 14h45 | Thomas Letan        | [[#letan][Specifying and Verifying Hardware-based Security Enforcement mechanisms]].                                        |
-| 15h15 | ---                 | /Pause/                                                                                                         |
-| 15h35 | Patricia Mouy       | [[#mouy][Use of formal methods in the Common Criteria Context]].                                                           |
-| 16h20 | Johan Laurent       | [[#laurent][A Cross-Layer Security Approach: Combining Accurate Modelling of Hardware Faults with Static Software Analysis]]. |
-| 16h50 | les organisateurs   | Mot sur le GT                                                                                                   |
-| 17h00 | ---                 | /Fin de la journée/                                                                                             |
+| 09h30 | ---                 | Accueil autour d'un café                                                                                                  |
+| 10h00 | Cristian Cadar      | Keynote.  Finding Bugs and Security Vulnerabilities with Dynamic Symbolic Execution. [[[#cadar][abstract]]]                                      |
+| 11h00 | ---                 | /Pause/                                                                                                                   |
+| 11h20 | Barbara Fila        | Attack trees: meaning, analysis, and correctness. [[[#fila cordy][abstract]]]    [[[file:media/gtmfs2020_slides_Fila.pdf][slides]]]                                                              |
+| 12h05 | Itsaka Rakotonirina | Efficient verification of observational equivalences in finite-process calculi. [[[#rakotonirina][abstract]]]     [[[file:media/gtmfs2020_slides_Itsaka.pdf][slides]]]                               |
+| 12h35 | ---                 | /Déjeuner/                                                                                                                |
+| 14H00 | Cătălin Hrițcu      | When Good Components Go Bad: Formally Secure Compilation Despite Dynamic Compromise. [[[#hritcu][abstract]]]  [[[file:media/2020-01-30-When-Good-Components-Go-Bad-GDR-Security-Paris.pdf][slides]]]                             |
+| 14h45 | Thomas Letan        | Specifying and Verifying Hardware-based Security Enforcement mechanisms. [[[#letan][abstract]]]     [[[file:media/gtmfs2020_slides_Letan.pdf][slides]]]                                      |
+| 15h15 | ---                 | /Pause/                                                                                                                   |
+| 15h35 | Patricia Mouy       | Use of formal methods in the Common Criteria Context. [[[#mouy][abstract]]]                                                                     |
+| 16h20 | Johan Laurent       | A Cross-Layer Security Approach: Combining Accurate Modelling of Hardware Faults with Static Software Analysis. [[[#laurent][abstract]]]   [[[file:media/gtmfs2020_slides_Laurent.pdf][slides]]] |
+| 16h50 | les organisateurs   | Mot sur le GT                                                                                                             |
+| 17h00 | ---                 | /Fin de la journée/                                                                                                       |
 
 * Résumés des présentations
 
-*** Keynote
-    :PROPERTIES:
-    :CUSTOM_ID: cadar
-    :END:
-
-/[[http://www.doc.ic.ac.uk/~cristic/][Cristian Cadar]] -- Imperial College London/
-
+*** Keynote --- Finding Bugs and Security Vulnerabilities with Dynamic Symbolic Execution
 
 /Abstract/.
 Software systems are affected on a regular basis by bugs and security
@@ -44,8 +38,6 @@ scenarios, such as high-coverage test input generation, bug detection,
 patch testing and bounded verification, among many others.
 
 /Cristian Cadar is Professor of Software Reliability in the Department of Computing at Imperial College London, where he leads the Software Reliability Group (http://srg.doc.ic.ac.uk), working on automatic techniques for increasing the reliability and security of software systems.  Cristian's research has been recognised by several prestigious awards, including the EuroSys Jochen Liedtke Award, the HVC Award, the BCS Roger Needham Award, the ACM SIGOPS Hall of Fame Award, and the ACM CCS Test of Time Award.  He also received an ERC Consolidator Grant and an EPSRC Early-Career Fellowship.  Many of the research techniques he co-authored have been open-sourced and used by several groups in both academia and industry.  In particular, he is co-author and the principal maintainer of the KLEE symbolic execution system, a popular system with a large user base.  Cristian has a PhD in Computer Science from Stanford University, and undergraduate and Master's degrees from the Massachusetts Institute of Technology./
-
-
 
 *** Attack trees: meaning, analysis, and correctness
     :PROPERTIES:
