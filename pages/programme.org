@@ -22,6 +22,8 @@
 
 *** Keynote --- Finding Bugs and Security Vulnerabilities with Dynamic Symbolic Execution
 
+/[[http://www.doc.ic.ac.uk/~cristic][Cristian Cadar]] -- Imperial College London/
+
 /Abstract/.
 Software systems are affected on a regular basis by bugs and security
 vulnerabilities.  In this talk, I will present dynamic symbolic
