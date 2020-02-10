@@ -4,19 +4,19 @@
 
 * Programme
 
-| 09h30 | ---                 | Accueil autour d'un café                                                                                                  |
+| 09h30 | ---                 | Accueil autour d'un café                                                                                                            |
 | 10h00 | Cristian Cadar      | Keynote.  Finding Bugs and Security Vulnerabilities with Dynamic Symbolic Execution. [[[#cadar][abstract]]]                                      |
-| 11h00 | ---                 | /Pause/                                                                                                                   |
+| 11h00 | ---                 | /Pause/                                                                                                                             |
 | 11h20 | Barbara Fila        | Attack trees: meaning, analysis, and correctness. [[[#fila cordy][abstract]]]    [[[file:media/gtmfs2020_slides_Fila.pdf][slides]]]                                                              |
 | 12h05 | Itsaka Rakotonirina | Efficient verification of observational equivalences in finite-process calculi. [[[#rakotonirina][abstract]]]     [[[file:media/gtmfs2020_slides_Itsaka.pdf][slides]]]                               |
-| 12h35 | ---                 | /Déjeuner/                                                                                                                |
+| 12h35 | ---                 | /Déjeuner/                                                                                                                          |
 | 14H00 | Cătălin Hrițcu      | When Good Components Go Bad: Formally Secure Compilation Despite Dynamic Compromise. [[[#hritcu][abstract]]]  [[[file:media/2020-01-30-When-Good-Components-Go-Bad-GDR-Security-Paris.pdf][slides]]]                             |
 | 14h45 | Thomas Letan        | Specifying and Verifying Hardware-based Security Enforcement mechanisms. [[[#letan][abstract]]]     [[[file:media/gtmfs2020_slides_Letan.pdf][slides]]]                                      |
-| 15h15 | ---                 | /Pause/                                                                                                                   |
+| 15h15 | ---                 | /Pause/                                                                                                                             |
 | 15h35 | Patricia Mouy       | Use of formal methods in the Common Criteria Context. [[[#mouy][abstract]]]                                                                     |
 | 16h20 | Johan Laurent       | A Cross-Layer Security Approach: Combining Accurate Modelling of Hardware Faults with Static Software Analysis. [[[#laurent][abstract]]]   [[[file:media/gtmfs2020_slides_Laurent.pdf][slides]]] |
-| 16h50 | les organisateurs   | Mot sur le GT                                                                                                             |
-| 17h00 | ---                 | /Fin de la journée/                                                                                                       |
+| 16h50 | les organisateurs   | Mot sur le GT.   [[[file:media/gtmfs2020_slides_GT.pdf][slides]]]                                                                                                             |
+| 17h00 | ---                 | /Fin de la journée/                                                                                                                 |
 
 * Résumés des présentations
 
